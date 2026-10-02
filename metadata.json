@@ -1,0 +1,6 @@
+{
+  "name": "Astro Predictor",
+  "description": "Celestial lottery & Powerball predictor with drawing frequency analysis, astro numerology, and voice dictation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
